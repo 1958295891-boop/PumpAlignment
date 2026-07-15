@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PumpAlignment</string>
+    <string name="welcome_message">欢迎使用机泵对中软件</string>
+    <string name="app_description">精确的泵对中测量和指导工具</string>
+</resources>
